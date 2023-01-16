@@ -1,3 +1,13 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+header{
+  width: 100%;
+  background-color: #7259c1;
+
 }
+
+body {
+    background: url('/universe.jpg');
+    color: white;
+}
+
